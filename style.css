@@ -1,0 +1,55 @@
+.title-h1 {
+    font-size: 88px;
+    width: 950px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100px;
+    margin-top: 32px;
+}
+
+.main-title {
+    margin: 0 auto;
+    display: block;
+    padding-left: 20%;
+}
+
+.scroll-down{
+    margin-top: 32px;
+}
+
+.title-p {
+    font-size: 18px;
+    color: #FBD784;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container :first-child {
+    padding-left: 80px;
+}
+
+.container :last-child {
+    padding-right: 80px;
+}
+
+.header-a {
+    color: black;
+    text-decoration: none;
+}
+
+.container .header-d {
+    padding-right: 40px;
+}
+
+.get-started {
+    display: block;
+    margin: 0 auto;
+}
+
+.photo-one {
+    size: 20px;
+}
